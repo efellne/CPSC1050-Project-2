@@ -1,8 +1,8 @@
 # CPSC1050-Project-2
 The Quest For Watermelon
-This is a game about trying to get your watermelon back from the big bad dude
-It is recommended to have at least 11 lines in your terminal visible while playing
-You play by writing out inputs in the terminal in the form of: Action Direction Repetition
+This is a game about trying to get your watermelon back from the big bad dude\n
+It is recommended to have at least 11 lines in your terminal visible while playing\n
+You play by writing out inputs in the terminal in the form of: Action Direction Repetition\n
 The actions are help, move, attack, inspect, pickup and quit
 Directions are up, down, left and right. It defaults to down if you write something else
 Repetition is an integer for how many times you want the action to be done. It defaults to 1 and is not necessary for the input
