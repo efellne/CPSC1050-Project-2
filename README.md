@@ -11,8 +11,9 @@ If you win the game, you are given the number of each type of action that you ha
 Try to get the lowest total
 
 Some gameplay things:
-Enemies attack orthogonally after you do each action
+Enemies attack orthogonally after you do each action, that means they will hit you if you end your move next to them
 You get three health back after defeating an enemy
+Attack damage is your strength
 Enemies are E's on the map
 Items are I on the map. You can pick them up from the space next to them
 You are P on the map
